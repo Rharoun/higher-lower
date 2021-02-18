@@ -1,0 +1,13 @@
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.csprojAssemblyReference.cache
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.AssemblyInfoInputs.cache
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.AssemblyInfo.cs
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.csproj.CoreCompileInputs.cache
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\bin\Debug\netcoreapp3.1\ProjectHigherLower.exe
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\bin\Debug\netcoreapp3.1\ProjectHigherLower.deps.json
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\bin\Debug\netcoreapp3.1\ProjectHigherLower.runtimeconfig.json
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\bin\Debug\netcoreapp3.1\ProjectHigherLower.runtimeconfig.dev.json
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\bin\Debug\netcoreapp3.1\ProjectHigherLower.dll
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\bin\Debug\netcoreapp3.1\ProjectHigherLower.pdb
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.dll
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.pdb
+C:\Users\hdxdq\OneDrive\Bureaublad\school\higher lower\sd20-project-higher-lower-Rharoun\obj\Debug\netcoreapp3.1\ProjectHigherLower.genruntimeconfig.cache
